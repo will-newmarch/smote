@@ -1,6 +1,6 @@
 {
   "name": "smote",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Resamples a dataset by applying the Synthetic Minority Oversampling TEchnique (SMOTE).",
   "main": "index.js",
   "scripts": {
