@@ -1,0 +1,28 @@
+{
+  "name": "smote",
+  "version": "0.1.0",
+  "description": "Resamples a dataset by applying the Synthetic Minority Oversampling TEchnique (SMOTE).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/will-newmarch/smote.git"
+  },
+  "keywords": [
+    "smote",
+    "over-sampling",
+    "machine learning",
+    "synthetic data"
+  ],
+  "author": "will-newmarch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/will-newmarch/smote/issues"
+  },
+  "homepage": "https://github.com/will-newmarch/smote#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
